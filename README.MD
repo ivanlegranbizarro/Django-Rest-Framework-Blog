@@ -1,0 +1,1 @@
+Blog con sistema de comentarios y de autenticación con JWT realizado con Django RestFramework
